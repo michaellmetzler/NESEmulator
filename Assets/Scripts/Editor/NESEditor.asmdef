@@ -1,0 +1,19 @@
+{
+    "name": "NESEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:77681a11fd23f4240a915b543337263d",
+        "GUID:4391d5ed4b6e05d4daf03c38692f9e18"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

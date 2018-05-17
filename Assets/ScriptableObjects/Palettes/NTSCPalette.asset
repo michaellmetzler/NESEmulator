@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 656996485a800ef4a89fc7b9b42d9c61, type: 3}
+  m_Name: NTSCPalette
+  m_EditorClassIdentifier: Assembly-CSharp::PaletteScriptableObject
+  Palette:
+  - serializedVersion: 2
+    rgba: 4283585106
+  - serializedVersion: 2
+    rgba: 4283505153
+  - serializedVersion: 2
+    rgba: 4284813071
+  - serializedVersion: 2
+    rgba: 4284679715
+  - serializedVersion: 2
+    rgba: 4283106102
+  - serializedVersion: 2
+    rgba: 4280681536
+  - serializedVersion: 2
+    rgba: 4278454591
+  - serializedVersion: 2
+    rgba: 4278194994
+  - serializedVersion: 2
+    rgba: 4278198303
+  - serializedVersion: 2
+    rgba: 4278200843
+  - serializedVersion: 2
+    rgba: 4278202112
+  - serializedVersion: 2
+    rgba: 4278857216
+  - serializedVersion: 2
+    rgba: 4281148928
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4288716960
+  - serializedVersion: 2
+    rgba: 4288498206
+  - serializedVersion: 2
+    rgba: 4290524984
+  - serializedVersion: 2
+    rgba: 4290259032
+  - serializedVersion: 2
+    rgba: 4287897973
+  - serializedVersion: 2
+    rgba: 4284228484
+  - serializedVersion: 2
+    rgba: 4280561282
+  - serializedVersion: 2
+    rgba: 4278206319
+  - serializedVersion: 2
+    rgba: 4278211153
+  - serializedVersion: 2
+    rgba: 4278215473
+  - serializedVersion: 2
+    rgba: 4278545178
+  - serializedVersion: 2
+    rgba: 4281231630
+  - serializedVersion: 2
+    rgba: 4285029392
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4294967294
+  - serializedVersion: 2
+    rgba: 4294745705
+  - serializedVersion: 2
+    rgba: 4294936457
+  - serializedVersion: 2
+    rgba: 4294932142
+  - serializedVersion: 2
+    rgba: 4294012366
+  - serializedVersion: 2
+    rgba: 4289884384
+  - serializedVersion: 2
+    rgba: 4285562078
+  - serializedVersion: 2
+    rgba: 4282290632
+  - serializedVersion: 2
+    rgba: 4280657830
+  - serializedVersion: 2
+    rgba: 4280859265
+  - serializedVersion: 2
+    rgba: 4282827875
+  - serializedVersion: 2
+    rgba: 4286431572
+  - serializedVersion: 2
+    rgba: 4290818902
+  - serializedVersion: 2
+    rgba: 4282137660
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4294967294
+  - serializedVersion: 2
+    rgba: 4294825662
+  - serializedVersion: 2
+    rgba: 4294954188
+  - serializedVersion: 2
+    rgba: 4294952157
+  - serializedVersion: 2
+    rgba: 4294557930
+  - serializedVersion: 2
+    rgba: 4292854258
+  - serializedVersion: 2
+    rgba: 4290955249
+  - serializedVersion: 2
+    rgba: 4289384680
+  - serializedVersion: 2
+    rgba: 4288535257
+  - serializedVersion: 2
+    rgba: 4288602825
+  - serializedVersion: 2
+    rgba: 4289652412
+  - serializedVersion: 2
+    rgba: 4291290548
+  - serializedVersion: 2
+    rgba: 4293189557
+  - serializedVersion: 2
+    rgba: 4289309097
+  - serializedVersion: 2
+    rgba: 4278190080
+  - serializedVersion: 2
+    rgba: 4278190080

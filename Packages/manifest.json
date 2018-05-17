@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "com.michaellmetzler.unityconsolelogger": "https://github.com/michaellmetzler/UnityConsoleLogger.git",
+    "com.unity.feature.development": "1.0.2",
+    "com.unity.ide.visualstudio": "2.0.26",
+    "com.unity.inputsystem": "1.17.0",
+    "com.unity.multiplayer.center": "1.0.1",
+    "com.unity.recorder": "5.1.4",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.adaptiveperformance": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.vectorgraphics": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Unity NuGet",
+      "url": "https://unitynuget-registry.openupm.com",
+      "scopes": [
+        "org.nuget"
+      ]
+    }
+  ]
+}

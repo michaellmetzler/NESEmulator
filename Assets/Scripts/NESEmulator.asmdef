@@ -1,0 +1,19 @@
+{
+    "name": "NESEmulator",
+    "rootNamespace": "NESEmulator",
+    "references": [
+        "GUID:4391d5ed4b6e05d4daf03c38692f9e18",
+        "GUID:d4e9a741d4a39c343bf400599e6aec99",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
